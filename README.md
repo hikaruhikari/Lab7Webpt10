@@ -2,8 +2,7 @@
 
 Pada Praktikum ini bertujuan untuk mengubah sistem biasa menjadi mengunakan AJAX pada search dan pagination
 
-<img width="1920" height="1080" alt="Screenshot (1349)" src="https://github.com/user-attachments/assets/36f04274-d432-46d9-
-9cd8-4a1fdc5dafa9" />
+<img width="1920" height="1080" alt="Screenshot (1349)" src="https://github.com/user-attachments/assets/34d2f07e-f7ee-4dc4-843e-dd1599b64700" />
 
 gambar ini adala hasil dari langkah-langkah yang dikerjakan
 
